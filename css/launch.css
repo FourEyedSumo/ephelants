@@ -912,7 +912,7 @@
 	.big-text-left {
 		position: absolute;
 		float: left;
-		left: -40%;
+		left: 2%;
 		top: 12%;
 		margin-top: -75px;
 		width: 100%;
@@ -928,7 +928,7 @@
 	.big-text-middle {
 		position: absolute;
 		float: left;
-		left: -1%;
+		left: 27%;
 		top: 12%;
 		margin-top: -75px;
 		width: 100%;
@@ -944,7 +944,7 @@
 	.big-text-right {
 		position: absolute;
 		float: left;
-		left: 40%;
+		left: 53%;
 		top: 12%;
 		margin-top: -75px;
 		width: 100%;
@@ -961,7 +961,7 @@
 	.logo {
 		position: absolute;
 		top: 50%;
-		left: 39%;
+		left: 27%;
 		width: 150px;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
@@ -984,7 +984,7 @@
 		}
 
 		.demo .variation .number {
-			display: none;
+			/* display: none; */
 		}
 }
 
@@ -1122,7 +1122,7 @@
 		}
 
 		.demo .variation .number {
-			display: none;
+			/*display: none;*/
 		}
 }
 
@@ -1168,7 +1168,7 @@
 		color: #ffffff;
 		font-size: 13px;
 		font-weight: 400;
-		margin: 0px auto 70px;
+		margin: 51px auto -28px;
 		padding-bottom: 20px;
 		width: 50px;
 	}
@@ -1177,7 +1177,7 @@
 		color: #ffffff;
 		font-size: 30px;
 		font-weight: 300;
-		margin-top: 0%;
+		margin-top: -5%;
 	}
 	.demo .variation .text {
 		border-bottom: 1px solid #ffffff;
@@ -1263,7 +1263,7 @@
 		}
 
 		.demo .variation .number {
-			display: none;
+			/* display: none; */
 		}
 
 	}
@@ -1310,7 +1310,7 @@
 		color: #ffffff;
 		font-size: 13px;
 		font-weight: 400;
-		margin: 0px auto 70px;
+		margin: 40px auto -32px;
 		padding-bottom: 20px;
 		width: 50px;
 	}
@@ -1319,7 +1319,7 @@
 		color: #ffffff;
 		font-size: 30px;
 		font-weight: 300;
-		margin-top: 0%;
+		margin-top: -7%;
 	}
 	.demo .variation .text {
 		border-bottom: 1px solid #ffffff;
@@ -1405,7 +1405,7 @@
 		}
 
 		.demo .variation .number {
-			display: none;
+			/* display: none; */
 		}
 }
 
