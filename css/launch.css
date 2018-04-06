@@ -261,7 +261,7 @@
 #stalk {
     position: fixed;
     top: 0;
-    right: 5%;
+    right: 30%;
     padding: 10px;
     font-size: 20px;
     z-index: 120000001;
@@ -1371,31 +1371,32 @@
 		color: #ffffff;
 		font-size: 13px;
 		font-weight: 400;
-		margin: 40px auto -32px;
+		margin: 54px auto -32px;
 		padding-bottom: 20px;
 		width: 50px;
 	}
 
 	.demo .variation .title {
 		color: #ffffff;
-		font-size: 30px;
+		font-size: 25px;
 		font-weight: 300;
-		margin-top: -7%;
+		margin-top: -13%;
 	}
 	.demo .variation .text {
 		border-bottom: 1px solid #ffffff;
 		color: #ffffff;
-		font-size: 19px;
+		font-size: 15px;
 		font-weight: 400;
 		margin: 52px auto 70px;
 		padding-bottom: 20px;
 		width: 47%;
+		line-height: 20px;
 	}
 	.big-text-left {
 		position: absolute;
 		float: left;
 		left: 0%;
-		top: 12%;
+		top: 15%;
 		margin-top: -75px;
 		width: 26%;
 		font-family: 'Gotham Condensed';
@@ -1411,7 +1412,7 @@
 		position: absolute;
 		float: left;
 		left: 37%;
-		top: 12%;
+		top: 15%;
 		margin-top: -75px;
 		width: 26%;
 		font-family: 'Gotham Condensed';
@@ -1427,7 +1428,7 @@
 		position: absolute;
 		float: left;
 		left: 75%;
-		top: 12%;
+		top: 15%;
 		margin-top: -75px;
 		width: 26%;
 		font-family: 'Gotham Condensed';
@@ -1596,7 +1597,7 @@
 #stalk {
     position: fixed;
     top: 0;
-    right: 5%;
+    right: 30%;
     padding: 10px;
     font-size: 20px;
     z-index: 120000001;
