@@ -248,13 +248,13 @@
     float: left;
     top: 100%;
     margin-top: -75px;
-    width: auto;
+    width: 100%;
     font-family: 'Gotham Condensed';
     text-shadow: 0 0 15px rgba(0,0,0,0.4);
     text-transform: uppercase;
     color: #fff;
     text-align: center;
-    font-size: 25px;
+    font-size: 13px;
     line-height: 60px;
 }
 
@@ -1371,7 +1371,7 @@
 		color: #ffffff;
 		font-size: 13px;
 		font-weight: 400;
-		margin: 54px auto -32px;
+		margin: 25px auto -32px;
 		padding-bottom: 20px;
 		width: 50px;
 	}
