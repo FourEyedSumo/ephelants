@@ -69,6 +69,15 @@
 		padding-bottom: 20px;
 		width: 50px;
 	}
+	.demo .variation .numberTwo {
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		font-size: 13px;
+		font-weight: 400;
+		margin: 0px auto 70px;
+		padding-bottom: 20px;
+		width: 50px;
+	}
 
 	.demo .variation .title {
 		color: #ffffff;
@@ -373,6 +382,15 @@
 		padding-bottom: 20px;
 		width: 50px;
 	}
+	.demo .variation .numberTwo {
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		font-size: 13px;
+		font-weight: 400;
+		margin: 0px auto 70px;
+		padding-bottom: 20px;
+		width: 50px;
+	}
 
 	.demo .variation .title {
 		color: #ffffff;
@@ -525,6 +543,15 @@
 		padding-bottom: 20px;
 		width: 50px;
 	}
+	.demo .variation .numberTwo {
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		font-size: 13px;
+		font-weight: 400;
+		margin: 0px auto 70px;
+		padding-bottom: 20px;
+		width: 50px;
+	}
 
 	.demo .variation .title {
 		color: #ffffff;
@@ -668,6 +695,15 @@
 	}
 
 	.demo .variation .number {
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		font-size: 13px;
+		font-weight: 400;
+		margin: 0px auto 70px;
+		padding-bottom: 20px;
+		width: 50px;
+	}
+	.demo .variation .numberTwo {
 		border-bottom: 1px solid #ffffff;
 		color: #ffffff;
 		font-size: 13px;
@@ -829,6 +865,15 @@
 		padding-bottom: 20px;
 		width: 50px;
 	}
+	.demo .variation .numberTwo {
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		font-size: 13px;
+		font-weight: 400;
+		margin: 0px auto 70px;
+		padding-bottom: 20px;
+		width: 50px;
+	}
 
 	.demo .variation .title {
 		color: #ffffff;
@@ -954,6 +999,15 @@
 		padding-bottom: 20px;
 		width: 50px;
 	}
+	.demo .variation .numberTwo {
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		font-size: 13px;
+		font-weight: 400;
+		margin: 0px auto 70px;
+		padding-bottom: 20px;
+		width: 50px;
+	}
 
 	.demo .variation .title {
 		color: #ffffff;
@@ -1035,17 +1089,20 @@
 		padding: 10px;
 	}
 
-		.demo .variation {
-			border-right: 1px solid #ffffff;
-			border-bottom: none !important;
-		}
+	.demo .variation {
+		border-right: 1px solid #ffffff;
+		border-bottom: none !important;
+	}
 
-		.demo .variation:last-child {
-			border-bottom: none;
-		}
+	.demo .variation:last-child {
+		border-bottom: none;
+	}
 
-		.demo .variation .number {
-			/* display: none; */
+	.demo .variation .number {
+		/* display: none; */
+	}
+	.demo .variation .numberTwo {
+		/* display: none; */
 		}
 }
 
@@ -1087,6 +1144,15 @@
 	}
 
 	.demo .variation .number {
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		font-size: 13px;
+		font-weight: 400;
+		margin: 0px auto 70px;
+		padding-bottom: 20px;
+		width: 50px;
+	}
+	.demo .variation .numberTwo {
 		border-bottom: 1px solid #ffffff;
 		color: #ffffff;
 		font-size: 13px;
@@ -1173,17 +1239,20 @@
 		padding: 10px;
 	}
 
-		.demo .variation {
-			border-right: none !important;
-			border-bottom: 1px solid #ffffff;
-		}
+	.demo .variation {
+		border-right: none !important;
+		border-bottom: 1px solid #ffffff;
+	}
 
-		.demo .variation:last-child {
-			border-bottom: none;
-		}
+	.demo .variation:last-child {
+		border-bottom: none;
+	}
 
-		.demo .variation .number {
-			/*display: none;*/
+	.demo .variation .number {
+		/*display: none;*/
+	}
+	.demo .variation .numberTwo {
+		/* display: none; */
 		}
 }
 
@@ -1225,6 +1294,15 @@
 	}
 
 	.demo .variation .number {
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		font-size: 13px;
+		font-weight: 400;
+		margin: 51px auto -28px;
+		padding-bottom: 20px;
+		width: 50px;
+	}
+	.demo .variation .numberTwo {
 		border-bottom: 1px solid #ffffff;
 		color: #ffffff;
 		font-size: 13px;
@@ -1314,17 +1392,20 @@
 		padding: 10px;
 	}
 
-		.demo .variation {
-			border-right: none !important;
-			border-bottom: 1px solid #ffffff;
-		}
+	.demo .variation {
+		border-right: none !important;
+		border-bottom: 1px solid #ffffff;
+	}
 
-		.demo .variation:last-child {
-			border-bottom: none;
-		}
+	.demo .variation:last-child {
+		border-bottom: none;
+	}
 
-		.demo .variation .number {
-			/* display: none; */
+	.demo .variation .number {
+		/* display: none; */
+	}
+	.demo .variation .numberTwo {
+		/* display: none; */
 		}
 
 	}
@@ -1367,6 +1448,15 @@
 	}
 
 	.demo .variation .number {
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		font-size: 13px;
+		font-weight: 400;
+		margin: 25px auto -32px;
+		padding-bottom: 20px;
+		width: 50px;
+	}
+	.demo .variation .numberTwo {
 		border-bottom: 1px solid #ffffff;
 		color: #ffffff;
 		font-size: 13px;
@@ -1457,17 +1547,20 @@
 		padding: 10px;
 	}
 
-		.demo .variation {
-			border-right: none !important;
-			border-bottom: 1px solid #ffffff;
-		}
+	.demo .variation {
+		border-right: none !important;
+		border-bottom: 1px solid #ffffff;
+	}
 
-		.demo .variation:last-child {
-			border-bottom: none;
-		}
+	.demo .variation:last-child {
+		border-bottom: none;
+	}
 
-		.demo .variation .number {
-			/* display: none; */
+	.demo .variation .number {
+		/* display: none; */
+	}
+	.demo .variation .numberTwo {
+		/* display: none; */
 		}
 }
 
@@ -1509,6 +1602,15 @@
 	}
 
 	.demo .variation .number {
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		font-size: 13px;
+		font-weight: 400;
+		margin: 0px auto 70px;
+		padding-bottom: 20px;
+		width: 50px;
+	}
+	.demo .variation .numberTwo {
 		border-bottom: 1px solid #ffffff;
 		color: #ffffff;
 		font-size: 13px;
@@ -1594,27 +1696,30 @@
 		margin: auto;
 		padding: 10px;
 	}
-#stalk {
-    position: fixed;
-    top: 0;
-    right: 30%;
-    padding: 10px;
-    font-size: 20px;
-    z-index: 120000001;
-    color: #fff;
-    font-family: 'Gotham Condensed';
-    width: auto !important;
-}
-		.demo .variation {
-			border-right: none !important;
-			border-bottom: 1px solid #ffffff;
-		}
+	#stalk {
+	    position: fixed;
+	    top: 0;
+	    right: 30%;
+	    padding: 10px;
+	    font-size: 20px;
+	    z-index: 120000001;
+	    color: #fff;
+	    font-family: 'Gotham Condensed';
+	    width: auto !important;
+	}
+	.demo .variation {
+		border-right: none !important;
+		border-bottom: 1px solid #ffffff;
+	}
 
-		.demo .variation:last-child {
-			border-bottom: none;
-		}
+	.demo .variation:last-child {
+		border-bottom: none;
+	}
 
-		.demo .variation .number {
-			display: none;
-		}
+	.demo .variation .number {
+		display: none;
+	}
+	.demo .variation .numberTwo {
+		display: none;
+	}
 }
