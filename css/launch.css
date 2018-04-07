@@ -70,6 +70,16 @@
 		width: 50px;
 	}
 
+	.demo .variation .numberTwo {
+		border-bottom: 1px solid #ffffff;
+		color: #ffffff;
+		font-size: 13px;
+		font-weight: 400;
+		margin: 0px auto 70px;
+		padding-bottom: 20px;
+		width: 50px;
+	}
+
 	.demo .variation .title {
 		color: #ffffff;
 		font-size: 30px;
