@@ -121,7 +121,7 @@
 		float: left;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -134,10 +134,10 @@
 	.big-text-middle {
 		position: absolute;
 		float: left;
-		left: 27%;
+		left: 25%;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -151,10 +151,10 @@
 	.big-text-right {
 		position: absolute;
 		float: left;
-		left: 51%;
+		left: 55%;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -167,8 +167,8 @@
 	.logo {
 		position: absolute;
 		top: 50%;
-		left: 27%;
-		width: 150px;
+		left: 24%;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 150px 60px;
@@ -300,7 +300,7 @@
 		float: left;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -316,7 +316,7 @@
 		left: 27%;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -333,7 +333,7 @@
 		left: 51%;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -347,7 +347,7 @@
 		position: absolute;
 		top: 50%;
 		left: 27%;
-		width: 150px;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 150px 60px;
@@ -479,7 +479,7 @@
 		float: left;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -495,7 +495,7 @@
 		left: 27%;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -512,7 +512,7 @@
 		left: 51%;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -526,7 +526,7 @@
 		position: absolute;
 		top: 50%;
 		left: 27%;
-		width: 150px;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 150px 60px;
@@ -766,7 +766,7 @@
 		float: left;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -782,7 +782,7 @@
 		left: 27%;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -799,7 +799,7 @@
 		left: 51%;
 		top: 15%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -813,7 +813,7 @@
 		position: absolute;
 		top: 50%;
 		left: 27%;
-		width: 150px;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 150px 60px;
@@ -937,7 +937,7 @@
 		left: 0;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -952,7 +952,7 @@
 		left: 27%;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -967,7 +967,7 @@
 		left: 55%;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -982,7 +982,7 @@
 		position: absolute;
 		top: 50%;
 		left: 27%;
-		width: 150px;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 150px 60px;
@@ -1116,7 +1116,7 @@
 		left: 0;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1131,7 +1131,7 @@
 		left: 27%;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1146,7 +1146,7 @@
 		left: 55%;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1161,7 +1161,7 @@
 		position: absolute;
 		top: 50%;
 		left: 27%;
-		width: 150px;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 150px 60px;
@@ -1295,7 +1295,7 @@
 		float: left;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1311,7 +1311,7 @@
 		float: left;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1327,7 +1327,7 @@
 		top: 12%;
 		float: left;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1342,7 +1342,7 @@
 		position: absolute;
 		top: 51%;
 		left: 27%;
-		width: 150px;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 150px 60px;
@@ -1460,7 +1460,7 @@
 		left: -30%;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1476,7 +1476,7 @@
 		left: 0%;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1492,7 +1492,7 @@
 		left: 30%;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1507,7 +1507,7 @@
 		position: absolute;
 		top: 46%;
 		left: 39%;
-		width: 150px;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 150px 60px;
@@ -1632,7 +1632,7 @@
 		left: 0;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1647,7 +1647,7 @@
 		left: 27%;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1662,7 +1662,7 @@
 		left: 55%;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1677,7 +1677,7 @@
 		position: absolute;
 		top: 50%;
 		left: 27%;
-		width: 150px;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 150px 60px;
@@ -1817,7 +1817,7 @@
 		left: -37%;
 		top: 23%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1833,7 +1833,7 @@
 		left: 0%;
 		top: 23%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1849,7 +1849,7 @@
 		left: 36%;
 		top: 23%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -1864,7 +1864,7 @@
 		position: absolute;
 		top: 41%;
 		left: 37%;
-		width: 150px;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 68% 60%;
@@ -2003,7 +2003,7 @@
 		left: 0%;
 		top: 16%;
 		margin-top: -75px;
-		width: 26%;
+		width: 25%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -2019,7 +2019,7 @@
 		left: 37%;
 		top: 16%;
 		margin-top: -75px;
-		width: 26%;
+		width: 25%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -2035,7 +2035,7 @@
 		left: 75%;
 		top: 16%;
 		margin-top: -75px;
-		width: 26%;
+		width: 25%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -2050,7 +2050,7 @@
 		position: absolute;
 		top: 46%;
 		left: 27%;
-		width: 150px;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 150px 60px;
@@ -2175,7 +2175,7 @@
 		left: 0;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -2190,7 +2190,7 @@
 		left: 27%;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -2205,7 +2205,7 @@
 		left: 55%;
 		top: 12%;
 		margin-top: -75px;
-		width: 100%;
+		width: 50%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
@@ -2220,7 +2220,7 @@
 		position: absolute;
 		top: 50%;
 		left: 27%;
-		width: 150px;
+		width: 50%;
 		height: 60px;
 		background: url(../images/logo.png)no-repeat center center;
 		background-size: 150px 60px;
