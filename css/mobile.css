@@ -313,7 +313,7 @@
 	.big-text-middle {
 		position: absolute;
 		float: left;
-		left: 24.5%;
+		left: 27%;
 		top: 15%;
 		margin-top: -75px;
 		width: 50%;
@@ -330,7 +330,7 @@
 	.big-text-right {
 		position: absolute;
 		float: left;
-		left: 48%;
+		left: 52%;
 		top: 15%;
 		margin-top: -75px;
 		width: 50%;
