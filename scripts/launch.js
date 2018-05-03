@@ -7,6 +7,10 @@ $(document).ready(function() {
    	var windowHeight = $(window).height();
 	var windowWidth = $(window).width();
 
+  setTimeout(function(){
+    $('#stalk').css('opacity', '1');
+  }, 1000);
+
 	$(".variation").click(function(){
 		var url = $(this).attr("data-url");
 		window.open(url, "_self");
