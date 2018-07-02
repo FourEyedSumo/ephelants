@@ -63,7 +63,7 @@
 	.demo .variation .number {
 		border-bottom: 1px solid #ffffff;
 		color: #ffffff;
-		font-size: 13px;
+		font-size:1em;
 		font-weight: 400;
 		margin: 0px auto 70px;
 		padding-bottom: 20px;
@@ -73,7 +73,7 @@
 .demo .variation .numberTwo {
 		border-bottom: 1px solid #ffffff;
 		color: #ffffff;
-		font-size: 13px;
+		font-size:1em;
 		font-weight: 400;
 		margin: 0px auto 70px;
 		padding-bottom: 20px;
@@ -81,33 +81,35 @@
 	}
 	.demo .variation .title {
 		color: #ffffff;
-		font-size: 30px;
+    	font-size: 2.2em;
 		font-weight: 300;
 		margin-top: 0%;
+		margin: 0 0 28px 0;
 	}
 	.demo .variation .title2 {
 		color: #ffffff;
-		font-size: 30px;
+		font-size: 2.2em;
 		font-weight: 300;
 		margin-top: 0%;
+		margin: 0 0 28px 0;
 	}
 	.demo .variation .text {
-		border-bottom: 1px solid #ffffff;
+		border-top: 1px solid #ffffff;
 		color: #ffffff;
-		font-size: 25px;
+		font-size: 20px;
 		font-weight: 400;
 		margin: 0px auto 70px;
-		padding-bottom: 20px;
-		width: 47%;
+		padding-top: 20px;
+		width: 53%;
 	}
 	.demo .variation .text2 {
-		border-bottom: 1px solid #ffffff;
+		border-top: 1px solid #ffffff;
 		color: #ffffff;
-		font-size: 25px;
+		font-size: 20px;
 		font-weight: 400;
 		margin: 0px auto 70px;
-		padding-bottom: 20px;
-		width: 47%;
+		padding-top: 20px;
+		width: 53%;
 	}
 	.big-text-left {
 		position: absolute;
@@ -121,7 +123,7 @@
 		text-transform: uppercase;
 		color: #fff;
 		text-align: center;
-		font-size: 25px;
+		font-size:1.5em;
 		line-height: 60px;
 		z-index: 200;
 	}
@@ -136,7 +138,7 @@
 		text-transform: uppercase;
 		color: #fff;
 		text-align: center;
-		font-size: 25px;
+		font-size:1.5em;
 		line-height: 60px;
 		z-index: 200;
 	}
@@ -151,19 +153,19 @@
 		text-transform: uppercase;
 		color: #fff;
 		text-align: center;
-		font-size: 25px;
+		font-size:1.5em;
 		line-height: 60px;
 		z-index: 200;
 	}
 
 	.logo {
 		position: absolute;
-		top: 50%;
-		left: 24px;
+		top: 37%;
+		left: 27%;
 		width: 50%;
-		height: 60px;
+		height: 150px;
 		background: url(../images/logo.png)no-repeat center center;
-		background-size: 150px 60px;
+		background-size: 150px 150px;
 		z-index: 10;
 	}
 
@@ -176,18 +178,18 @@
 	.footer-left {
 		z-index: 1000;
 		color: #fff;
-		position: absolute;
-		left: 1%;
+		position: relative;
+		left: -20px;
 		float: left;
 		top: 100%;
-		margin-top: -75px;
+		margin-top: -67px;
 		width: 100%;
 		font-family: 'Gotham Condensed';
 		text-shadow: 0 0 15px rgba(0,0,0,0.4);
 		text-transform: uppercase;
 		color: #fff;
 		text-align: center;
-		font-size: 13px;
+		font-size: 3em;
 		line-height: 60px;
 	}
 
